@@ -1,0 +1,20 @@
+{
+    "cik": "789019",
+    "company": "MICROSOFT CORP",
+    "filing_type": "8-K",
+    "filing_date": "2020-03-31",
+    "period_of_report": "2020-03-28",
+    "sic": "7372",
+    "state_of_inc": "WA",
+    "state_location": "WA",
+    "fiscal_year_end": "0630",
+    "filing_html_index": "https://www.sec.gov/Archives/edgar/data/789019/0001193125-20-091746-index.html",
+    "htm_filing_link": "https://www.sec.gov/Archives/edgar/data/789019/000119312520091746/d909204d8k.htm",
+    "complete_text_filing_link": "https://www.sec.gov/Archives/edgar/data/789019/0001193125-20-091746.txt",
+    "filename": "789019_8K_2020_0001193125-20-091746.htm",
+    "item_1": "",
+    "item_1A": "",
+    "item_7": "Item 7.01. Regulation FD Disclosure\nOn March 28, 2020, Microsoft Corporation posted an entry on the Microsoft Azure Blog, a site directed primarily at customers, partners, and other parties interested in developments in Azure technologies and services. The post contained, among other information, a statement that \u201cWe have seen a 775 percent increase of our cloud services in regions that have enforced social distancing or shelter in place orders.\u201d The metric in this statement was intended to refer only to a specific cloud-based service, Teams calling and meeting monthly users, in a specific country, Italy. The statement was not intended to provide information about the performance of Azure and cloud services generally, Microsoft\u2019s Intelligent Cloud segment, or Microsoft as a whole. We corrected the blog entry to clarify the nature of this information on March 30, 2020. A copy of the corrected blog is filed as Exhibit 99.1 and may be viewed at https://azure.microsoft.com/en-us/blog/update-2-on-microsoft-cloud-services-continuity/.\nIn accordance with General Instruction B.2 of Form 8-K, the information in this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed to be \u201cfiled\u201d for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.",
+    "item_7A": "",
+    "item_8": ""
+}
